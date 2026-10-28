@@ -20,6 +20,10 @@ Open `01_data_audit.ipynb` in Jupyter Notebook and run the cells in order from t
 
 The notebook loads the dataset, carries out the data audit and cleaning, prepares the data for machine learning and runs a simple baseline model.
 
+Assistance Declaration
+
+I used ChatGPT to help explain course concepts, troubleshoot issues and suggest a step-by-step structure for the project. I wrote and ran the code myself and reviewed and verified the results.
+
 
 ## Repository
 
