@@ -22,7 +22,7 @@ The notebook loads the dataset, carries out the data audit and cleaning, prepare
 
 Assistance Declaration
 
-I used ChatGPT to help explain course concepts, troubleshoot issues and suggest a step-by-step structure for the project. I wrote and ran the code myself and reviewed and verified the results.
+I used ChatGPT to help explain course concepts, troubleshoot issues such as syntax errors etc and suggest a step-by-step structure for the project. I wrote and ran the code myself and reviewed and verified the results.
 
 
 ## Repository
